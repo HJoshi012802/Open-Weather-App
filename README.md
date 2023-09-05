@@ -1,3 +1,11 @@
+# FRONT-END 
+![image](https://github.com/HJoshi012802/Open-Weather-App/assets/106693465/24b37f2b-d7d5-4b9d-963c-d9c48152a002)
+
+![image](https://github.com/HJoshi012802/Open-Weather-App/assets/106693465/87a7d296-2d9f-4c2d-b7c8-db2889e628ca)
+
+![image](https://github.com/HJoshi012802/Open-Weather-App/assets/106693465/2c6494de-8463-4d15-aa7f-51cf21284bf2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
